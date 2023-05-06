@@ -24,7 +24,7 @@ $ pkg install git
 $ pip install bs4
 $ pip install rich
 $ rm -rf Pro-Cloner
-$ https://github.com/itzalif007/CP-Command
+$ git clone https://github.com/itzalif007/CP-Command
 $ cd Pro-Cloner
 $ python Pro.py
 
